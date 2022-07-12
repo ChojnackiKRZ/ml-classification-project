@@ -1,3 +1,5 @@
+# Author of report Marta Bartkowiak.
+# Authors of project: Marta Bartkowiak, Krzysztof Chojnacki
 # Abstract
 
 ## Problem statement
